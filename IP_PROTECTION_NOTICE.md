@@ -104,8 +104,8 @@ This modification ensures that:
 
 ## 📞 CONTACT
 
-For access to the complete, functional version of this hotel management system, please contact the original developer.
+For access to the complete, functional version of this hotel management system, please contact the original developer (XTRAGES).
 
 ---
 
-**© 2024 - This code is protected intellectual property. Unauthorized completion or commercial use is prohibited.**
+**© 2025 - This code is protected intellectual property. Unauthorized completion or commercial use is prohibited.**
