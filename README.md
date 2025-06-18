@@ -138,8 +138,11 @@ hotel-management-system/
 - **Styling Problems**: Check CSS file paths and Bootstrap version
 
 ## 📝 License
+This project is licensed under a Proprietary License.
+It is intended for personal use, educational purposes, and portfolio demonstration only.
+Commercial use, distribution, modification, or resale is strictly prohibited without explicit written permission from the author.
 
-This project is open source and available under the [MIT License](LICENSE).
+See the LICENSE file for full details.
 
 ## 🤝 Contributing
 
