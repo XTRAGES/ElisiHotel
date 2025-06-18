@@ -43,8 +43,8 @@ A modern hotel management system built with PHP, MySQL, HTML, CSS, and JavaScrip
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/XTRAGES/Elisi-Hotel.git
-   cd Elisi-Hotel
+   git clone https://github.com/XTRAGES/ElisiHotel.git
+   cd ElisiHotel
    ```
 
 2. **Database Setup**
@@ -64,7 +64,7 @@ A modern hotel management system built with PHP, MySQL, HTML, CSS, and JavaScrip
 4. **Web Server Setup**
    - Place files in your web server directory
    - Ensure PHP has write permissions for uploads
-   - Access via `http://localhost/hotel-management-system`
+   - Access via `http://localhost/ElisiHotel`
 
 ## 📁 Project Structure
 
@@ -153,14 +153,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 For support and questions:
 - Create an issue on GitHub
-- Email: your-email@example.com
+- Email: aldinzendeli33@gmail.com
 
 ## 🙏 Acknowledgments
 
-- Bootstrap team for the responsive framework
+- XTRAGES
 - Font Awesome for icons
-- jQuery team for JavaScript library
-- All contributors and testers
+  
 
 ---
 
