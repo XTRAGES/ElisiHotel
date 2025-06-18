@@ -138,19 +138,13 @@ hotel-management-system/
 - **Styling Problems**: Check CSS file paths and Bootstrap version
 
 ## 📝 License
-This project is licensed under a Proprietary License.
-It is intended for personal use, educational purposes, and portfolio demonstration only.
-Commercial use, distribution, modification, or resale is strictly prohibited without explicit written permission from the author.
 
-See the (LICENSE) file for full details.
+This project is licensed under a **Proprietary License**.
 
-## 🤝 Contributing
+It is intended for **personal use, educational purposes, and portfolio demonstration only**.  
+**Commercial use, distribution, modification, or resale is strictly prohibited without explicit written permission from the author.**
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+See the [LICENSE](./LICENSE) file for full license details.
 
 ## 📞 Support
 
